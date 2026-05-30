@@ -106,7 +106,7 @@ get_urban_score <- function(rastObject, lat, lon, buffer_m = 1000, resolution_fa
   )
 }
 
-WA30m <- rast("WA_NLCD_2019_30m.tif")
+WA30m <- rast("../WA_NLCD_2019_30m.tif")
 rastObject <- WA30m
 
 ui <- fluidPage(
