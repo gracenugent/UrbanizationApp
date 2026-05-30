@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+.positai
+*.tif
+*.tiff
+*.tif
+*.tiff
+*.xml
